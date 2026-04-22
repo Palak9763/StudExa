@@ -1,4 +1,4 @@
-# 🎓 StudExa — Student Progress Monitoring System
+# 🎓 StudExa — A Student Progress Monitoring System
 
 A full-stack web application built with **Django + SQLite** for tracking student academic achievements, automatic point calculation, and faculty verification.
 
